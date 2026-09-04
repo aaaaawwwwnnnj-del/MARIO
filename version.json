@@ -1,5 +1,5 @@
 ﻿{
-  "version": "2.16.2",
+  "version": "4",
   "download_url": "https://github.com/aaaaawwwwnnnj-del/MARIO/raw/main/SPR%20MARIO%20PRIVET.exe",
-  "changelog": "- menu version from version.json online"
+  "changelog": "- test: menu shows version from this file"
 }
